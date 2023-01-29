@@ -1,0 +1,26 @@
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\bin\Debug\Predictor.exe.config
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\bin\Debug\Predictor.exe
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\bin\Debug\Predictor.pdb
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.csproj.AssemblyReference.cache
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.Form1.resources
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.Properties.Resources.resources
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.csproj.GenerateResource.cache
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.csproj.CoreCompileInputs.cache
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.exe
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.pdb
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\bin\Debug\predictionsConfig.json
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kapustin_nn\source\repos\Predictor\Predictor\obj\Debug\Predictor.csproj.CopyComplete
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\bin\Debug\predictionsConfig.json
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\bin\Debug\Predictor.exe.config
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\bin\Debug\Predictor.exe
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\bin\Debug\Predictor.pdb
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.csproj.AssemblyReference.cache
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.Form1.resources
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.Properties.Resources.resources
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.csproj.GenerateResource.cache
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.exe
+C:\Users\nikit\Documents\Visual Studio 2022\Projects\Predictor\Predictor\obj\Debug\Predictor.pdb
